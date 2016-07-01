@@ -1,0 +1,55 @@
+/*stylesheet for jpeg-image.html*/
+
+html, body {
+	margin: 0px;
+	background: #ccc;
+}
+
+table {
+	background: #ccc;
+	padding-left: 15px;
+	padding-right: 15px
+}
+
+.header {
+	background: #ccc;
+	color: blue;
+	text-align: left;
+	padding-left: 30px;
+
+
+}
+
+.column1 {
+	border: 1px dashed blue;
+	background: #fff;
+	padding: 20px;
+	width: 20%;
+	vertical-align: text-top;
+}
+
+.column2 {
+	border: 1px dashed blue;
+	background: #fff;
+	padding-top: 40px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	width: 65%;
+
+}
+
+.column3 {
+	border: 1px dashed blue;
+	background: #fff;
+	padding: 20px;
+	vertical-align: text-top;
+	width: 15%;
+}
+
+.footer {
+		text-align: center;
+		height: 20px;
+		background: #ccc;
+}
+
